@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Dive into epic adventures, supernatural battles, and heartfelt slice-of-life stories! Discover legendary series from shonen action to shojo romance. Whether you're Team Naruto or Team Luffy, join fellow otaku to discuss plot twists, debate best waifus, and share your favorite panels. Bring your passion for Japanese manga and let's go beyond Plus Ultra!",
+        "schedule": "Tuesdays, 5:00 PM - 6:30 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:30"
+        },
+        "max_participants": 25,
+        "participants": []
     }
 }
 
